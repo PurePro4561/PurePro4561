@@ -6,7 +6,7 @@ https://purepro4561.github.io 👍👍👍👍👍👍👍
 <img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=PurePro4561;Welcome+To+Game+Central">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />
+  <img src="https://komarev.com/ghpvc/?username=Github&label=Profile Visitors&color=001eff&style=flat" alt="Github" />
   
   <h1>GAMES🥶🥶🥶🥶</h1>
 https://purepro4561.github.io/Just-Fall/
